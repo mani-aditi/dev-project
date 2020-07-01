@@ -35,3 +35,4 @@ cd target
 pwd
 ls
 pwd
+sudo su -
